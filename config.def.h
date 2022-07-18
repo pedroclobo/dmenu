@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 /* Default settings; can be overriden by command line. */
 
-static int topbar = 1;
+static int topbar = 0;
 static const char *fonts[] = {"UbuntuMono Nerd Font:size=11"};
 static const char *prompt = NULL;
 static const char *colors[SchemeLast][2] = {
